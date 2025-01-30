@@ -1,4 +1,7 @@
 
+# this file acts as a package and is used for distributing python projects as it defines metadata, dependencies
+
+
 from setuptools import find_packages,setup
 from typing import List
 

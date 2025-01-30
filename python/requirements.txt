@@ -1,4 +1,11 @@
 pandas
 numpy
 seaborn
--e .
+scikit-learn
+catboost
+xgboost
+Flask
+matplotlib
+
+
+#-e .  ##r editable mode, allowing you to install a package from the current directory (.) while keeping changes editable without needing to reinstall.
